@@ -43,7 +43,7 @@ const App = () => {
           </p>
         </div>
         <p className="mt-5">
-          Made with ❤️ by{" "}
+          Made with ❤️ by
           <a
             className="underline italic"
             href="https://www.linkedin.com/in/sundeepbasak/"
